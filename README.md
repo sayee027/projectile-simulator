@@ -35,6 +35,7 @@ pip install -r requirements.txt
 streamlit run main.py
 ```
 Then open the local server URL displayed in the terminal to interact with the app in your browser.
+https://sayee027-projectile-simulator-projectile-simulator-py-bfh8bs.streamlit.app/
 
 ## 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/f25b1995-f805-4a91-ad6f-62d2ec8f1726)
